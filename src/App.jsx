@@ -6,8 +6,8 @@ const profile = {
   phoneDisplay: "+91 85950 24295",
   phoneHref: "tel:+918595024295",
   email: "harshit971897@gmail.com",
-  linkedIn: "https://www.linkedin.com",
-  github: "https://github.com",
+  linkedIn: "https://www.linkedin.com/in/harshit-singh-dev/",
+  github: "https://github.com/harshitsingh2007",
   summary:
     "Building full-stack web products with React, Node.js, Express, and MongoDB. I focus on clean APIs, reusable UI, and secure authentication.",
 };
